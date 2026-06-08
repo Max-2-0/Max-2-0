@@ -1,7 +1,7 @@
 # Présentation
 
 Bonjour, je m'appelle Clément Godard, je suis assez créatif, passant la plupart de mon temps libre à faire des créations en LEGO.
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/201034902@N05/55320711997/in/dateposted/" title="motrice_tgv_wip"><img src="https://live.staticflickr.com/65535/55320711997_768a85a06e_z.jpg" width="640" height="261" alt="motrice_tgv_wip"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/201034902@N05/55320711997/in/dateposted/" title="motrice_tgv_wip"><img src="https://live.staticflickr.com/65535/55320711997_768a85a06e_b.jpg" width="1024" height="418" alt="motrice_tgv_wip"/></a>
 
 
 Je fais de l'informatique depuis le lycée en première avec la spécialité NSI, je suis actuellement étudiant en informatique à l'IUT Robert Schumann.
