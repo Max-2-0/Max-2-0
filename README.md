@@ -1,4 +1,22 @@
-# Max-2-0
-Présentation
+# Présentation
 
-Je m'appelle Godard Clément, je suis actuellement étudiant en informatique à l'IUT Robert Schumann. J'aime bien coder en c#, en c ainsi qu'en java et en python.
+Bonjour, je m'appelle Clément Godard, je suis assez créatif, passant la plupart de mon temps libre à faire des créations en LEGO.
+
+Je fais de l'informatique depuis le lycée en première avec la spécialité NSI, je suis actuellement étudiant en informatique à l'IUT Robert Schumann.
+
+Durant ces quelques années, j'ai pu m'initier à différents langages de programmation :
+- c
+- c#
+- java
+- python
+- html
+- js
+- css
+
+# Mes projets
+
+
+
+# Me contacter
+
+Pour me contacter, vous pouvez utiliser l'adresse mail présente sur mon profil ou bien m'envoyer un message privé sur discord [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/._max_2.0)
