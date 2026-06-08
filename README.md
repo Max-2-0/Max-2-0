@@ -4,7 +4,7 @@ Bonjour, je m'appelle Clément Godard, je suis assez créatif, passant la plupar
 
 Je fais de l'informatique depuis le lycée en première avec la spécialité NSI, je suis actuellement étudiant en informatique à l'IUT Robert Schumann.
 
-Durant ces quelques années, j'ai pu m'initier à différents langages de programmation :
+Durant ces quelques années, j'ai pu m'initier à différentes technologies :
 - C
 - C#
 - Java
